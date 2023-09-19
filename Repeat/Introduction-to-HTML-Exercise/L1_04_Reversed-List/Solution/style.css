@@ -1,0 +1,12 @@
+section {
+    background: lightgray;
+    width: 30%;
+    height: 250px;
+    text-align: center;
+    margin: auto;
+    font-size: large;
+}
+
+ol {
+    text-decoration: underline;
+}

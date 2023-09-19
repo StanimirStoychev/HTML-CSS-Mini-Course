@@ -1,0 +1,12 @@
+body {
+    font-size: large;
+}
+
+table, td , thead, tfoot {
+    border: 1px solid black;
+}
+
+tfoot {
+    text-align:  right;
+}
+
