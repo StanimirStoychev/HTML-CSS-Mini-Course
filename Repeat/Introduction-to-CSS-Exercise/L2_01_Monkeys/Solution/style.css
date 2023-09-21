@@ -1,0 +1,29 @@
+body {
+    background: #FAEBC8;
+    font-family: "Helvetica", sans-serif;
+}
+
+section {
+    background: white;
+    margin: 100px 200px 100px 200px;
+    border-radius: 20px;
+}
+
+section article {
+    display: inline-block;
+    text-align: center;
+    width: 15%;
+    margin: 4%;
+}
+
+section article:nth-child(1) {
+    padding-left: 15%;
+}
+
+section article p:nth-child(1) {
+    font-size: 17px;
+}
+
+img {
+    width: 80px;
+}
